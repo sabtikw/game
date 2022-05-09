@@ -1,0 +1,2 @@
+# game
+hats ctf
